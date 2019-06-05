@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloud-cglib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/cloud-cglib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
